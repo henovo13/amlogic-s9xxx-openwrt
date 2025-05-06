@@ -1,5 +1,5 @@
 # OpenWrt
-与ophub原版相比：去除docker;添加了openclash;其它任何东西都没有丁点改动
+immortalwrt源码，与ophub原版相比：去除docker;添加了openclash;其它任何东西都没有丁点改动
 
 View Chinese description | [查看中文说明](README.cn.md)
 
