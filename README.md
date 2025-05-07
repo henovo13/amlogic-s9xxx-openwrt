@@ -1,6 +1,6 @@
 # OpenWrt
 官方与immortalwrt源码，与ophub版相比：去除docker;添加了openclash(immortalwrt);添加了kmod-nft-socket，其它任何东西都没有丁点改动
-自己的N1通过vlan作主路由，配合openclash，完美使用中。
+自己的N1通过vlan作主路由，配合openclash(或者未来安装nikki），完美使用中。
 
 View Chinese description | [查看中文说明](README.cn.md)
 
