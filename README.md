@@ -1,5 +1,6 @@
 # OpenWrt
 immortalwrt源码，与ophub原版相比：去除docker;添加了openclash;其它任何东西都没有丁点改动
+自己的N1通过vlan作主路由，配合openclash，完美使用中。
 
 View Chinese description | [查看中文说明](README.cn.md)
 
