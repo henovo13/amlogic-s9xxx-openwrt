@@ -1,6 +1,6 @@
 # OpenWrt
 官方源码，去除docker;添加了kmod-nft-socket;
-自用的N1通过vlan作主路由，配合openclash(或者未来安装nikki），完美使用中。
+自用的N1通过vlan作主路由(主要是可以完美ipv6)，配合openclash(或者未来安装nikki），完美使用中。
 
 View Chinese description | [查看中文说明](README.cn.md)
 
