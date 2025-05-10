@@ -1,5 +1,5 @@
 # OpenWrt
-适合单网口盒子路由器；
+适合单网口盒子路由器,最好是没docker需求；
 官方和immortalwrt源码，去除docker;添加了kmod-nft-socket;
 自用的N1通过vlan作主路由(主要是可以完美firewall4和ipv6)，自己安装openclash（依赖已经完整或者未来安装nikki都没问题），完美使用中。
 
